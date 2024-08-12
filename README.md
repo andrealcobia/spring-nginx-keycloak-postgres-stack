@@ -161,7 +161,7 @@ To complete, copy the `SERVICE_APP_CLIENT_SECRET` value that is shown at the end
 To remove the all docker image created, simply go to a terminal and run the following script:
 
 ```
-./remove-docker-images.sh
+./shutdown-environment.sh
 ```
 
 ## Wiki
